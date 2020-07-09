@@ -1,4 +1,4 @@
-### Asiphe Dyani Here. Welcome to my github profile :)
+### Welcome :)
 
 <!--
 **LocalAsh/LocalAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
