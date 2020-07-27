@@ -1,11 +1,7 @@
 ### Hello [ 😎 ]
 The profile you are looking at belongs to :
 
-***Asiphe Dyani*** |
-***Web Developer*** |
-***Cape Town*** |
 ***asiphedyani.com (coming soon)*** |
-***2020***
 
 >***The harder/smarter you work, the luckier you get***
 
