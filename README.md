@@ -1,4 +1,13 @@
-### Updated my README because github suggested so. in the meantime, Let's keep on keeping on, shall we? later! 
+### Hello [ 😎 ]
+The profile you are looking at belongs to :
+
+***Asiphe Dyani*** |
+***Web Developer*** |
+***Cape Town*** |
+***asiphedyani.com (coming soon)*** |
+***2020***
+
+>***The harder/smarter you work, the luckier you get***
 
 <!--
 **LocalAsh/LocalAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
